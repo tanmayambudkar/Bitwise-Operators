@@ -4,4 +4,5 @@ Bitwise operators in C++ allow direct manipulation of individual bits within int
 
 List of Bitwise Operators
 Operator	Symbol	Description	Example
-<img src="images/bitwise-table.png" alt="Bitwise Operators Table" width="400"/>
+<img src="images/bitwise-table.png" alt="Bitwise Operators Table" width="400">
+
