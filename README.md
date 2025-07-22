@@ -4,9 +4,4 @@ Bitwise operators in C++ allow direct manipulation of individual bits within int
 
 List of Bitwise Operators
 Operator	Symbol	Description	Example
-AND	&	Sets each bit to 1 if both bits are 1	a & b
-OR	|	Sets each bit to 1 if at least one bit is 1	`a
-XOR	^	Sets each bit to 1 if only one bit is 1	a ^ b
-NOT	~	Inverts all the bits (one's complement)	~a
-Left Shift	<<	Shifts bits left, filling with zeros	a << 2
-Right Shift	>>	Shifts bits right, filling with zeros	a >> 2
+<img src="images/bitwise-table.png" alt="Bitwise Operators Table" width="400"/>
